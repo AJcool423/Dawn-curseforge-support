@@ -1,0 +1,6 @@
+build/
+*.jar
+*.log
+.env
+.env.*
+*.key
